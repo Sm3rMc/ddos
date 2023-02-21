@@ -6,7 +6,7 @@ print ('''                  S M 3 R M C
          |___/   |___/   \___/   |___/
 >--------------------------------------------->
                 • Version 1.0 •
-                      ☆☆☆
+                     ☆☆☆
                • C0d3d by Sm3R •
 ┌─────────────────────────────────────────────┐
 │         lotfan be .gov ddos nazanid       │
@@ -35,7 +35,7 @@ def attack():
  
         global counter
         counter += 1
-        print(counter)
+        print("P A C K E T ", counter, " S E N T ! ! !")
         
         
         s.close()
